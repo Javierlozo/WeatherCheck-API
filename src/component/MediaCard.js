@@ -21,8 +21,9 @@ const useStyles = makeStyles({
     width: "400px",
     height: "575px",
     backgroundSize: "cover",
+    backgroundPosition: "center",
     backgroundImage:
-      "url('http://blogs.studyinsweden.se/wp-content/uploads/2015/12/G1064208.jpg')",
+      "url('https://www.si.edu/sites/default/files/newsdesk/press_releases/the_sun.jpg')",
   },
 
   rootSunny: {
@@ -37,9 +38,8 @@ const useStyles = makeStyles({
     width: "400px",
     height: "575px",
     backgroundSize: "cover",
-    backgroundPosition: "center",
     backgroundImage:
-      "url('http://www.sloveniatimes.com/modules/uploader/uploads/Aktualno/Podobe1/oh_1b18458f-7f55-4c62-9613-216acaa83c8f.jpg')",
+      "url('http://blogs.studyinsweden.se/wp-content/uploads/2015/12/G1064208.jpg')",
   },
 
   yellow: {
@@ -60,7 +60,7 @@ export default function MediaCard({
 }) {
   const classes = useStyles();
 
-  const w = weather.main.temp > 400;
+  const w = weather.main.temp > 300;
 
   return (
     <div>

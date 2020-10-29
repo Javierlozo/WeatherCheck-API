@@ -8,9 +8,9 @@ function App() {
   const [weather, setWeather] = useState([]);
   const [toggle, setToggle] = useState(true);
   const [query, setQuery] = useState({
-    city: "Oymyakon",
+    city: "Charleston",
     state: "SC",
-    country: "RU",
+    country: "USA",
   });
 
   useEffect(() => {
