@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WeatherCheck-API/static/css/main.1b4ad1f5.chunk.css",
+    "main.js": "/WeatherCheck-API/static/js/main.74ee57f9.chunk.js",
+    "main.js.map": "/WeatherCheck-API/static/js/main.74ee57f9.chunk.js.map",
+    "runtime-main.js": "/WeatherCheck-API/static/js/runtime-main.21d2764a.js",
+    "runtime-main.js.map": "/WeatherCheck-API/static/js/runtime-main.21d2764a.js.map",
+    "static/js/2.bf98a0d9.chunk.js": "/WeatherCheck-API/static/js/2.bf98a0d9.chunk.js",
+    "static/js/2.bf98a0d9.chunk.js.map": "/WeatherCheck-API/static/js/2.bf98a0d9.chunk.js.map",
+    "index.html": "/WeatherCheck-API/index.html",
+    "precache-manifest.005eb5d9bd2bb46a8626396b8b1fcb9c.js": "/WeatherCheck-API/precache-manifest.005eb5d9bd2bb46a8626396b8b1fcb9c.js",
+    "service-worker.js": "/WeatherCheck-API/service-worker.js",
+    "static/css/main.1b4ad1f5.chunk.css.map": "/WeatherCheck-API/static/css/main.1b4ad1f5.chunk.css.map",
+    "static/js/2.bf98a0d9.chunk.js.LICENSE.txt": "/WeatherCheck-API/static/js/2.bf98a0d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21d2764a.js",
+    "static/js/2.bf98a0d9.chunk.js",
+    "static/css/main.1b4ad1f5.chunk.css",
+    "static/js/main.74ee57f9.chunk.js"
+  ]
+}
